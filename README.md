@@ -19,6 +19,9 @@
   <a href="https://wa.me/+8801860008045?text=WhatsApp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp%20&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://t.me/Bakar_Abu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram%20&logo=Telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ## "My profile repo is coming soon....." 
