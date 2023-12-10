@@ -1,1 +1,2 @@
-"My profile repo is coming soon....." 
+# Welcome to My Introductory Profile Repository 👋
+## "My profile repo is coming soon....." 
