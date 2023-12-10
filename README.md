@@ -13,6 +13,9 @@
   <a href="https://www.youtube.com/channel/UCCNo1rc_iyBsnVOVPj7pCYw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://wa.me/+8801860008045?text=WhatsApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp%20&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ## "My profile repo is coming soon....." 
